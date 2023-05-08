@@ -19,9 +19,9 @@ curl -X POST -H "Content-Type: application/json" --data '{ "query": "{ currency(
 
 ## Code structure
 
-src/main.rs: The main Rust file that sets up the server and defines the GraphQL schema using Juniper.  
-src/schema.rs: The Rust file that defines the GraphQL types and resolvers using Juniper.  
-src/hitbtc.rs: The Rust file that defines functions to fetch cryptocurrency data from the HitBTC API.  
+**src/main.rs:** The main Rust file that sets up the server and defines the GraphQL schema using Juniper.  
+**src/schema.rs:** The Rust file that defines the GraphQL types and resolvers using Juniper.  
+**src/hitbtc.rs:** The Rust file that defines functions to fetch cryptocurrency data from the HitBTC API.  
 
 ## Libraries used
 
