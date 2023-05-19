@@ -4,7 +4,7 @@ This is a Rust code example that demonstrates how to use the Juniper and Warp li
 
 ## How to run
 
-Clone the repository: git clone https://github.com/username/juniper-warp-example.git  
+Clone the repository: git clone https://github.com/sumaninster/crypto_server_rust_graphql git  
 Go to the project directory: cd crypto_server_rust_graphql  
 Install dependencies: cargo install --path .  
 Start the server: cargo run  
